@@ -1,0 +1,22 @@
+/* style.css */
+
+
+.white {
+    color: white;
+    background-color:black;
+}
+
+.black {
+    color:black;
+    background-color: yellow;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.white,
+.black {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
